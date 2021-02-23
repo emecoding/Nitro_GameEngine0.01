@@ -6,3 +6,5 @@
 5.At that directory you are in, was created new folder. go there in terminal using "cd"
 6.if you are on Linux, write "python3 Hub.py", if on Windows "Hub.py", if on Mac "python ./Hub.py"
 7.Enjoy, and send me feedback at "emecoding@gmail.com". THANK YOU!
+
+THERE WILL BE TUTORIALS LATER, BUT SINCE THIS IS NOT READY YET, I WON'T POST ANY TUTORIALS!
