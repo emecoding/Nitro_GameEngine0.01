@@ -14,3 +14,8 @@ DOWNLOAD PYTHON3 IF YOU DON'T HAVE IT YET!
 
 
 THERE WILL BE TUTORIALS LATER, BUT SINCE THIS IS NOT READY YET, I WON'T POST ANY TUTORIALS!
+
+COMING IN NEXT UPDATE:
+ -Can edit compiled projects.
+ -Components will be written to DataBase, so it remembers components.
+ -can choose project directory.
